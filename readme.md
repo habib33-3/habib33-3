@@ -43,10 +43,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=habib33-3&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<<<<<<< HEAD
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-=======
-
-> > > > > > > c5ffc66de7172192caa039e4e9a453c0222c721c
