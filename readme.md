@@ -9,7 +9,22 @@ runme:
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/habibur-rahman44) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_habib7)
+<div align="center">
+<a href="https://github.com/habib33-3" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/_habib7" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+
+</a>
+<a href="https://www.linkedin.com/in/habibur-rahman44/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+
+</a>  
+</div>  
 
 # 💻 Tech Stack:
 
@@ -31,9 +46,9 @@ alt="MongoDB" height="50" />
 
 # 📊 GitHub Stats:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-six-eosin-19.vercel.app/api?username=habib33-3&show_icons=true&locale=en" alt="habib33-3" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats-six-eosin-19.vercel.app/api?username=habib33-3&show_icons=true&locale=en" alt="habib33-3" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=habib33-3&" alt="habib33-3" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=habib33-3&" alt="habib33-3" /></p>
 
 ![](https://github-readme-stats-six-eosin-19.vercel.app/api/top-langs/?username=habib33-3&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut&langs_count=20&size_weight=0.5&count_weight=0.5)
 
