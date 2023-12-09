@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="./images/banner.png" alt="Header">
 </p>
@@ -22,6 +21,11 @@
 
 </a>  
 </div>  
+
+- 🔭 I’m currently working on [TravelWonder](https://github.com/habib33-3/travel-wonder-client)
+- 🌱 I’m currently learning **Typescript, Redux**
+
+- 📫 How to reach me **https://www.facebook.com/habib.rahman123/**
 
 # 💻 Tech Stack
 
