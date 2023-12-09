@@ -1,11 +1,10 @@
 
-
 <p align="center">
   <img src="./images/banner.png" alt="Header">
 </p>
 
-<h1 align="center">Hi 👋, I'm Habibur Rahman</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh </h3>
+<p align="center">Hi 👋, I'm Habibur Rahman. A passionate frontend developer from Bangladesh.</p>
+<p align="center">Currently Working with MERN stack and building new projects. Learning Typescript and Redux. </p>
 
 ## 🌐 Socials
 
@@ -16,7 +15,6 @@
 <a href="https://twitter.com/_habib7" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-
 </a>
 <a href="https://www.linkedin.com/in/habibur-rahman44/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -37,7 +35,6 @@ alt="MongoDB" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" />  
@@ -55,11 +52,11 @@ alt="MongoDB" height="50" />
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=habib33-3&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=habib33-3&theme=radical&no-frame=false&no-bg=true&margin-w=4"/></div>
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/></div>
 
 ---
 
