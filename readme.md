@@ -25,7 +25,9 @@
 - 🔭 I’m currently working on [TravelWonder](https://github.com/habib33-3/travel-wonder-client)
 - 🌱 I’m currently learning **Typescript, Redux**
 
-- 📫 How to reach me **https://www.facebook.com/habib.rahman123/**
+- 👨‍💻 All of my projects are available at [https://habibur-rahman-snowy.vercel.app/](https://habibur-rahman-snowy.vercel.app/)
+
+- 📫 How to reach me **habib.rahman0330@gmail.com**
 
 # 💻 Tech Stack
 
