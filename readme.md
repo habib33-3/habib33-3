@@ -25,7 +25,7 @@
 - 🔭 I’m currently working on [TravelWonder](https://github.com/habib33-3/travel-wonder-client)
 - 🌱 I’m currently learning **Typescript, Redux**
 
-- 👨‍💻 All of my projects are available at [https://habibur-rahman-snowy.vercel.app/](https://habibur-rahman-snowy.vercel.app/)
+- 👨‍💻 All of my projects are available at [ portfolio](https://habibur-rahman-snowy.vercel.app/)
 
 - 📫 How to reach me **habib.rahman0330@gmail.com**
 
@@ -44,6 +44,9 @@ alt="MongoDB" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" height="50" />
+<img style="margin: 10px" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=whit" alt="Next Js" height="50" />
+  
 </div>
 
 # 📊 GitHub Stats
