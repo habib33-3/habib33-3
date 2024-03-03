@@ -22,9 +22,9 @@
 </a>  
 </div>
 
-- 🔭 I’m currently working on [TravelWonder](https://github.com/habib33-3/travel-wonder-client)
+- 🔭 I’m currently working on [Schedule Meet](https://github.com/Naymul-NN/Schedulemeet-client)
 - 🌱 I’m currently learning **Redux**
-- 👨‍💻 All of my projects are available at [portfolio](https://habibur-rahman-snowy.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://habibur-rahman-snowy.vercel.app/)
 - 📫 How to reach me **<habib.rahman0330@gmail.com>**
 
 # 💻 Tech Stack
