@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">Hi 👋, I'm Habibur Rahman. A passionate frontend developer from Bangladesh.</p>
-<p align="center">Currently Working with MERN stack and building new projects. Learning Typescript and Redux. </p>
+<p align="center">Currently Working with MERN stack and building new projects. Learning  Redux. </p>
 
 ## 🌐 Socials
 
