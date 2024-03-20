@@ -6,8 +6,8 @@
 <p align="center">Currently Working with MERN stack and building new projects. Learning  Redux. </p>
 
 ## 🌐 Socials
-
-<div align="center">
+<br/>
+<div style="margin: 5px" align="center">
 <a href="https://github.com/habib33-3" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
