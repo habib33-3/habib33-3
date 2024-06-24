@@ -5,6 +5,8 @@
 <p align="center">Hi 👋, I'm Habibur Rahman. A passionate frontend developer from Bangladesh.</p>
 <p align="center">Currently Working with MERN stack and building new projects. Learning  Redux. </p>
 
+<br/>
+
 ## 🌐 Socials
 <br/>
 <div style="margin: 5px" align="center">
@@ -21,6 +23,8 @@
 
 </a>  
 </div>
+
+<br/>
 
 - 🔭 I’m currently working on [Schedule Meet](https://github.com/Naymul-NN/Schedulemeet-client)
 - 🌱 I’m currently learning **Redux**
