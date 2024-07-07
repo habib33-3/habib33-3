@@ -79,7 +79,7 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=habib33-3&" alt="habib33-3" /></p>
 
 <div align="center">
-  <img src="https://github-readme-stats-six-eosin-19.vercel.app/api/top-langs/?username=habib33-3&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut&langs_count=20&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+  <img src="https://github-readme-stats-six-eosin-19.vercel.app/api/top-langs/?username=habib33-3&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
 </div>
 
 ## 🏆 GitHub Trophies
