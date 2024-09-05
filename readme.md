@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">Hi 👋, I'm Habibur Rahman. A passionate frontend developer from Bangladesh.</p>
-<p align="center">Currently Working with MERN stack and building new projects. Learning  Redux. </p>
+<p align="center">Currently Working with MERN stack and building new projects. Learning  PostgreSQL </p>
 
 <br/>
 
@@ -27,7 +27,7 @@
 <br/>
 
 - 🔭 I’m currently working on [Schedule Meet](https://github.com/Naymul-NN/Schedulemeet-client)
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **PostgreSQL**
 - 👨‍💻 All of my projects are available at [Portfolio](https://habibur-rahman-snowy.vercel.app/)
 - 📫 How to reach me **<habib.rahman0330@gmail.com>**
 
