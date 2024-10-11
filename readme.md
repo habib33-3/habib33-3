@@ -27,7 +27,7 @@
 <br/>
 
 - 🔭 I’m currently working on [Schedule Meet](https://github.com/Naymul-NN/Schedulemeet-client)
-- 🌱 I’m currently learning **PostgreSQL**
+- 🌱 I’m currently learning **NestJs**
 - 👨‍💻 All of my projects are available at [Portfolio](https://habibur-rahman-snowy.vercel.app/)
 - 📫 How to reach me **<habib.rahman0330@gmail.com>**
 
