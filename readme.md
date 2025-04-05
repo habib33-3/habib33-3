@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/banner.png" alt="Header">
+  <img src="./images/Github Banner.png" alt="Header">
 </p>
 
 <p align="center">Hi 👋, I'm Habibur Rahman. A passionate frontend developer from Bangladesh.</p>
