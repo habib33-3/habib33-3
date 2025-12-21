@@ -1,0 +1,46 @@
+<svg width="900" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1b26;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#24283b;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7aa2f7;stop-opacity:0" />
+      <stop offset="50%" style="stop-color:#7aa2f7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7aa2f7;stop-opacity:0" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="200" fill="url(#bg)" rx="15"/>
+
+  <!-- Floating particles -->
+  <circle cx="100" cy="50" r="2" fill="#7aa2f7" opacity="0.3">
+    <animate attributeName="cy" values="50;40;50" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="300" cy="80" r="2" fill="#bb9af7" opacity="0.3">
+    <animate attributeName="cy" values="80;70;80" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="700" cy="60" r="2" fill="#7dcfff" opacity="0.3">
+    <animate attributeName="cy" values="60;50;60" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Name and role -->
+  <text x="40" y="80" font-family="'Fira Code', monospace" font-size="28" font-weight="bold" fill="#c0caf5">
+    Habibur Rahman
+  </text>
+  <text x="40" y="110" font-family="'Fira Code', monospace" font-size="16" fill="#7aa2f7">
+    &gt; Full-Stack Engineer
+  </text>
+  <text x="40" y="130" font-family="'Fira Code', monospace" font-size="14" fill="#bb9af7">
+    &gt; Backend • TypeScript • Systems
+  </text>
+
+  <!-- Tech stack line -->
+  <line x1="40" y1="150" x2="860" y2="150" stroke="url(#line)" stroke-width="2" opacity="0.6"/>
+
+  <!-- Tech stack text -->
+  <text x="40" y="175" font-family="'Fira Code', monospace" font-size="12" fill="#565f89">
+    [ Node.js | NestJS | PostgreSQL | Docker | React ]
+  </text>
+</svg>
