@@ -63,7 +63,7 @@
 
 | Project | Description & Features | Links |
 |---------|----------------------|-------|
-| 📌 **Trip Buddy** | Full-stack travel planning app<br>• Express.js backend + React frontend<br>• Shadcn UI, JWT auth, pagination, Redis caching<br>• Type-safe APIs & Turborepo modular architecture | [Repo](https://github.com/habib33-3/trip-buddy) • [Live Demo](https://habibur-rahman-snowy.vercel.app/) |
+| 📌 **Trip Buddy** | Full-stack travel planning app<br>• Express.js backend + React frontend<br>• Shadcn UI, JWT auth, pagination, Redis caching<br>• Type-safe APIs & Turborepo modular architecture | [Repo](https://github.com/habib33-3/trip-buddy)  |
 | 📌 **Pinterest Clone** | Full-stack social media platform for images<br>• Node.js backend + React frontend<br>• Auth, image posting, responsive UI<br>• Type-safe APIs & Dockerized environment | [Repo](https://github.com/habib33-3/pinterest-clone) |
 
 ---
