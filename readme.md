@@ -50,6 +50,14 @@
 
 ---
 
+## 💼 Professional Experience
+
+| 🛠️ Role | 🏢 Company | 🌟 Highlights |
+|---------|-----------|---------------|
+| Backend Developer | Softvance Agency | • Built modular backend services with Node.js, Express & NestJS<br>• Optimized PostgreSQL & Redis caching for production APIs<br>• Implemented type-safe, secure, and scalable systems |
+
+---
+
 ## 🛠️ Tech Stack
 
 | 🔧 Backend & APIs | 🎨 Frontend | 🐳 DevOps |
